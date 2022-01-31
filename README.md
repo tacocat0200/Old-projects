@@ -1,2 +1,2 @@
 # Relevant-projects
-Collection of the projects done by me so far
+Collection of some of the pet projects undertaken by me so far
